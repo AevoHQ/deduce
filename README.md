@@ -1,2 +1,2 @@
-# deduce
-Aevo deep learning data processor.
+# Aevo Deduce
+Deep learning data processor.
